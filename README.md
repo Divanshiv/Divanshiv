@@ -15,6 +15,13 @@ Frontend Developer building responsive, user-friendly web applications with the 
 - AI-powered tools and automation
 - Sharpening my TypeScript and Next.js skills
 
+## 🚀 Featured Projects
+
+- **Kalaah Studio** — Full-stack e-commerce platform for the Indian fashion market with product browsing, cart, wishlist, Razorpay payments, and a full admin dashboard. `React` · `Express` · `MongoDB` — [Repository](https://github.com/Divanshiv/E-commerce)
+- **PickMeUps Cab** — Cab booking and management system featuring ride booking, driver management, and an admin portal. `Laravel` · `PHP` — [Live](https://pickmeupcabs.vercel.app) · [Repository](https://github.com/Divanshiv/pickmeupcabs)
+- **Oley Shop** — E-commerce platform built with a Laravel backend. `Laravel` · `PHP` — [Repository](https://github.com/Divanshiv/Oleyshop_Backend)
+- **AI Newsroom** — AI-powered OSINT news platform that runs a website and Instagram news channel from one admin dashboard. `Next.js` · `FastAPI` — [Repository](https://github.com/Divanshiv/News)
+
 ## 📫 Let's connect
 
 - 🌐 Portfolio: https://portfolio-nu-azure-82.vercel.app
