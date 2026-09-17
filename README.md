@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Divanshiv Kumar 👋
 
-<!--
-**Divanshiv/Divanshiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer building responsive, user-friendly web applications with the **MERN stack**, **React.js**, and **Tailwind CSS**.
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on
+
+- Full-stack web applications with the MERN stack
+- AI-powered tools and automation
+- Sharpening my TypeScript and Next.js skills
+
+## 📫 Let's connect
+
+- 🌐 Portfolio: https://portfolio-nu-azure-82.vercel.app
+- 📸 Instagram: https://www.instagram.com/divanshiv.28/
